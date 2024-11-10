@@ -6,19 +6,19 @@
 
 [Site](https://mapaslivre.github.io/mapas.github.io/) esse é um site para teste de conhecimento e desenvolvimento no Github. 
 
-## Preview
+## Prévia do Site:
 
   
 
   
 
-[![Agency Preview](https://mapaslivre.github.io/mapas.github.io/)](https://mapaslivre.github.io/mapas.github.io/)
+[![Prévia do Site](https://mapaslivre.github.io/mapas.github.io/)](https://mapaslivre.github.io/mapas.github.io/)
 
   
 
   
 
-**[View Live Preview](https://mapaslivre.github.io/mapas.github.io/)**
+**[Prévia do Site](https://mapaslivre.github.io/mapas.github.io/)**
 
   
 
